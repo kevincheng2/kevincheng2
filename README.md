@@ -1,6 +1,5 @@
-### Hi there, I'm Kevin Cheng!👋
-<h1 align="center">Hi there 👋, I'm KevinCheng!</h1>
 
+<h1 align="center">Hi there 👋, I'm KevinCheng!</h1>
 <br />
 
 I'm a passionate developer from China.
