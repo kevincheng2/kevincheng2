@@ -22,8 +22,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 -->
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=kevincheng2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincheng2&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=kevincheng2&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevincheng2&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
