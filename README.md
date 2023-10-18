@@ -1,8 +1,6 @@
 ### Hi there, I'm Kevin Cheng!👋
 <h1 align="center">Hi there 👋, I'm KevinCheng!</h1>
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
 <br />
 
 I'm a passionate developer from China.
@@ -22,6 +20,7 @@ I'm a passionate developer from China.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevincheng2&show_icons=true&locale=en" alt="patrick-star125" /></p>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patrick-Star125/Patrick-Star125/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Patrick-Star125/Patrick-Star125/output/github-contribution-grid-snake.svg">
@@ -29,3 +28,4 @@ I'm a passionate developer from China.
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
+-->
