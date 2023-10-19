@@ -8,7 +8,7 @@ I'm a passionate developer from China.
 
 - 🔭 I’m currently pursuing a graduate degree at [ZZU](http://www.zzu.edu.cn/)
   
-- 🌱 I’m currently learning **database core, ML base**
+- 🌱 I’m currently learning **compiler, parallelization base, ML**
 
 - ❤️ I love writing C/C++ and Python, and building fun experiments
 
