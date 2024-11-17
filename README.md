@@ -6,9 +6,9 @@ I'm a passionate developer from China.
 
 **About me**
 
-- 🔭 I’m currently pursuing a graduate degree at [ZZU](http://www.zzu.edu.cn/)
+- 🔭 I’m currently working for LLM
   
-- 🌱 I’m currently learning **compiler, parallelization base, ML**
+- 🌱 I’m currently learning **LLM, parallelization base, infer**
 
 - ❤️ I love writing C/C++ and Python, and building fun experiments
 
